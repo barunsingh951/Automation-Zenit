@@ -1,0 +1,437 @@
+2026-05-11 16:40:51,551 [ERROR] \U0001f525 Selenium launcher failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff687550295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff687550300+14740]
+	chromedriver!(No symbol) [0x7ff6872bd7cd]
+	chromedriver!(No symbol) [0x7ff687316c4e]
+	chromedriver!(No symbol) [0x7ff687316f5c]
+	chromedriver!(No symbol) [0x7ff687367cc7]
+	chromedriver!(No symbol) [0x7ff687364818]
+	chromedriver!(No symbol) [0x7ff687309018]
+	chromedriver!(No symbol) [0x7ff687309f03]
+	chromedriver!GetHandleVerifier [0x7ff687865949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff68785fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff687883102+347542]
+	chromedriver!GetHandleVerifier [0x7ff68756d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff68757605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff687559684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff687559836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff68753e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7fff6ca3e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fff6cdcc53c+2c]
+
+2026-05-11 16:41:41,947 [ERROR] \U0001f525 Selenium launcher failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff687550295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff687550300+14740]
+	chromedriver!(No symbol) [0x7ff6872bd7cd]
+	chromedriver!(No symbol) [0x7ff687316c4e]
+	chromedriver!(No symbol) [0x7ff687316f5c]
+	chromedriver!(No symbol) [0x7ff687367cc7]
+	chromedriver!(No symbol) [0x7ff687364818]
+	chromedriver!(No symbol) [0x7ff687309018]
+	chromedriver!(No symbol) [0x7ff687309f03]
+	chromedriver!GetHandleVerifier [0x7ff687865949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff68785fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff687883102+347542]
+	chromedriver!GetHandleVerifier [0x7ff68756d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff68757605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff687559684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff687559836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff68753e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7fff6ca3e8d7+17]
+	ntdll!RtlUserThreadStart [0x7fff6cdcc53c+2c]
+
+2026-05-12 14:30:08,398 [ERROR] \U0001f525 Selenium launcher failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7a58f0295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7a58f0300+14740]
+	chromedriver!(No symbol) [0x7ff7a565d7cd]
+	chromedriver!(No symbol) [0x7ff7a56b6c4e]
+	chromedriver!(No symbol) [0x7ff7a56b6f5c]
+	chromedriver!(No symbol) [0x7ff7a5707cc7]
+	chromedriver!(No symbol) [0x7ff7a5704818]
+	chromedriver!(No symbol) [0x7ff7a56a9018]
+	chromedriver!(No symbol) [0x7ff7a56a9f03]
+	chromedriver!GetHandleVerifier [0x7ff7a5c05949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7a5bffe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7a5c23102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7a590d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7a591605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7a58f9684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7a58f9836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7a58de347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffedb6fe8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffedc8ec53c+2c]
+
+2026-05-12 14:44:42,551 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 15:19:09,424 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 15:30:54,141 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 15:33:58,687 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 15:35:56,742 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 15:38:02,595 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 15:39:37,717 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 16:55:13,540 [INFO] \u2705 Zenit ICA session launched
+2026-05-12 17:01:29,226 [INFO] \u2705 Zenit ICA session launched
+2026-05-13 14:51:32,855 [INFO] \u2705 Zenit ICA session launched
+2026-05-13 14:53:13,639 [INFO] \u2705 Zenit ICA session launched
+2026-05-13 15:01:51,834 [INFO] \u2705 Zenit ICA session launched
+2026-05-13 16:25:19,371 [INFO] \u2705 Zenit ICA session launched
+2026-05-13 16:43:52,421 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 14:40:41,961 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 14:42:10,521 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 14:43:25,432 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 14:45:30,528 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 14:56:12,024 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 15:01:28,622 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 15:08:15,087 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 16:03:43,014 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 17:16:05,545 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 17:17:33,110 [INFO] \u2705 Zenit ICA session launched
+2026-05-19 17:30:28,700 [INFO] \u2705 Zenit ICA session launched
+2026-05-21 13:09:18,577 [INFO] \u2705 Zenit ICA session launched
+2026-05-21 13:47:16,845 [INFO] \u2705 Zenit ICA session launched
+2026-05-25 12:40:30,537 [INFO] \u2705 Zenit ICA session launched
+2026-05-25 13:18:42,830 [INFO] \u2705 Zenit ICA session launched
+2026-05-25 14:00:01,055 [INFO] \u2705 Zenit ICA session launched
+2026-05-25 14:46:27,375 [INFO] \u2705 Zenit ICA session launched
+2026-05-25 15:39:58,111 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 11:28:24,621 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 11:39:39,121 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 11:46:26,789 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 11:53:46,668 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 11:56:57,876 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 12:24:43,822 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 12:30:54,667 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 12:33:30,365 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 12:55:56,584 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 12:58:17,204 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 13:22:47,906 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 15:10:21,896 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 15:15:32,428 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 15:18:45,185 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 15:24:12,476 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 15:26:56,291 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 15:36:46,116 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 16:56:36,872 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 16:59:08,502 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 17:03:59,760 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 17:08:27,580 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 17:10:40,761 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 17:14:30,336 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 17:17:39,091 [INFO] \u2705 Zenit ICA session launched
+2026-05-26 17:20:47,654 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 14:27:28,180 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 14:31:46,934 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 14:43:19,131 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 14:58:00,606 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 15:39:22,550 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 15:44:08,705 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 16:22:48,049 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 16:48:55,514 [INFO] \u2705 Zenit ICA session launched
+2026-05-27 17:06:54,328 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 12:17:31,011 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 12:24:30,149 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 12:28:12,610 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 12:32:57,843 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 12:34:51,298 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 12:42:38,150 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 14:36:54,279 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 14:39:21,539 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 14:43:00,530 [INFO] \u2705 Zenit ICA session launched
+2026-05-29 15:16:55,126 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 12:25:49,273 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 12:27:41,179 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 12:36:41,350 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 12:39:09,194 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 12:44:15,451 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 12:54:46,023 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 12:57:38,686 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 15:26:05,371 [INFO] \u2705 Zenit ICA session launched
+2026-06-01 15:39:38,195 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 11:50:41,493 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 12:28:31,687 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 12:31:36,034 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 12:36:36,811 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 12:42:11,442 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 12:45:03,366 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 14:14:10,769 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 14:20:14,778 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 14:29:28,300 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 14:41:02,926 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 14:55:09,030 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 14:59:37,468 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:09:13,603 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:24:52,213 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:27:58,841 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:41:09,085 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:46:07,955 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:47:34,302 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:49:31,078 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:54:15,231 [INFO] \u2705 Zenit ICA session launched
+2026-06-02 15:57:45,789 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 12:16:53,633 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 12:36:04,252 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 12:39:20,819 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 14:28:46,801 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 14:30:52,159 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 14:46:34,519 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 14:56:25,842 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 15:18:46,495 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 15:25:50,571 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 16:49:03,734 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 16:56:02,191 [INFO] \u2705 Zenit ICA session launched
+2026-06-03 16:59:56,499 [INFO] \u2705 Zenit ICA session launched
+2026-06-04 12:37:50,388 [INFO] \u2705 Zenit ICA session launched
+2026-06-04 12:41:11,930 [INFO] \u2705 Zenit ICA session launched
+2026-06-04 12:52:19,932 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 11:40:57,239 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 12:21:39,729 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 14:55:14,910 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 14:57:30,381 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:06:14,801 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:15:27,104 [INFO] No Log On link. Continuing.
+2026-06-09 15:16:20,917 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:17:11,809 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:19:01,028 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:20:44,284 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:36:21,497 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:46:19,783 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:48:23,059 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 15:48:58,166 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created
+from unknown error: cannot create default profile directory; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff76e8d0295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff76e8d0300+14740]
+	chromedriver!(No symbol) [0x7ff76e63d7cd]
+	chromedriver!(No symbol) [0x7ff76e683327]
+	chromedriver!(No symbol) [0x7ff76e67c8f9]
+	chromedriver!(No symbol) [0x7ff76e679559]
+	chromedriver!(No symbol) [0x7ff76e6cdc21]
+	chromedriver!(No symbol) [0x7ff76e6cd486]
+	chromedriver!(No symbol) [0x7ff76e689018]
+	chromedriver!(No symbol) [0x7ff76e689f03]
+	chromedriver!GetHandleVerifier [0x7ff76ebe5949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff76ebdfe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff76ec03102+347542]
+	chromedriver!GetHandleVerifier [0x7ff76e8ed425+31865]
+	chromedriver!GetHandleVerifier [0x7ff76e8f605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff76e8d9684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff76e8d9836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff76e8be347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffff838e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffff9d6c53c+2c]
+
+2026-06-09 15:50:04,091 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created
+from unknown error: cannot create temp dir for user data dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff76e8d0295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff76e8d0300+14740]
+	chromedriver!(No symbol) [0x7ff76e63d7cd]
+	chromedriver!(No symbol) [0x7ff76e67c5fe]
+	chromedriver!(No symbol) [0x7ff76e679559]
+	chromedriver!(No symbol) [0x7ff76e6cdc21]
+	chromedriver!(No symbol) [0x7ff76e6cd486]
+	chromedriver!(No symbol) [0x7ff76e689018]
+	chromedriver!(No symbol) [0x7ff76e689f03]
+	chromedriver!GetHandleVerifier [0x7ff76ebe5949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff76ebdfe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff76ec03102+347542]
+	chromedriver!GetHandleVerifier [0x7ff76e8ed425+31865]
+	chromedriver!GetHandleVerifier [0x7ff76e8f605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff76e8d9684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff76e8d9836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff76e8be347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffff838e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffff9d6c53c+2c]
+
+2026-06-09 16:05:05,115 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 16:14:10,106 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 16:17:59,018 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 16:22:32,668 [INFO] \u2705 Zenit ICA session launched
+2026-06-09 16:27:32,436 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 12:02:52,709 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 15:42:44,004 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 15:44:31,290 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 15:56:47,304 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 15:58:50,160 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 16:01:55,172 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 16:07:12,635 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 16:30:16,392 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 16:43:33,163 [INFO] \u2705 Zenit ICA session launched
+2026-06-10 16:45:55,038 [INFO] \u2705 Zenit ICA session launched
+2026-06-11 15:14:13,655 [INFO] \u2705 Zenit ICA session launched
+2026-06-11 15:35:07,566 [INFO] \u2705 Zenit ICA session launched
+2026-06-11 16:15:25,270 [INFO] \u2705 Zenit ICA session launched
+2026-06-11 16:17:21,764 [INFO] \u2705 Zenit ICA session launched
+2026-06-11 16:35:07,364 [INFO] \u2705 Zenit ICA session launched
+2026-06-11 16:37:12,110 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 11:53:21,486 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 12:30:53,323 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 12:37:13,521 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 14:10:46,493 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 14:17:17,686 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 14:20:34,815 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 14:27:23,814 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 15:13:18,329 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 15:32:02,907 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 15:35:15,565 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 15:39:18,905 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 15:44:04,876 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 15:47:38,843 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 15:51:47,257 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 16:05:51,897 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 16:08:55,039 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 16:15:20,094 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 16:25:59,223 [INFO] \u2705 Zenit ICA session launched
+2026-06-12 16:31:00,166 [INFO] \u2705 Zenit ICA session launched
+2026-06-15 13:48:37,284 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 149.0.7827.103 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b3900295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6b3900300+14740]
+	chromedriver!(No symbol) [0x7ff6b366d7cd]
+	chromedriver!(No symbol) [0x7ff6b36b59bd]
+	chromedriver!(No symbol) [0x7ff6b36b4705]
+	chromedriver!(No symbol) [0x7ff6b36aea81]
+	chromedriver!(No symbol) [0x7ff6b36a9559]
+	chromedriver!(No symbol) [0x7ff6b36fdc21]
+	chromedriver!(No symbol) [0x7ff6b36fd486]
+	chromedriver!(No symbol) [0x7ff6b36b9018]
+	chromedriver!(No symbol) [0x7ff6b36b9f03]
+	chromedriver!GetHandleVerifier [0x7ff6b3c15949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6b3c0fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6b3c33102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6b391d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6b392605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6b3909684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6b3909836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6b38ee347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffb8a06e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffb8a5ec53c+2c]
+
+2026-06-15 13:49:50,675 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 149.0.7827.103 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6b3900295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6b3900300+14740]
+	chromedriver!(No symbol) [0x7ff6b366d7cd]
+	chromedriver!(No symbol) [0x7ff6b36b59bd]
+	chromedriver!(No symbol) [0x7ff6b36b4705]
+	chromedriver!(No symbol) [0x7ff6b36aea81]
+	chromedriver!(No symbol) [0x7ff6b36a9559]
+	chromedriver!(No symbol) [0x7ff6b36fdc21]
+	chromedriver!(No symbol) [0x7ff6b36fd486]
+	chromedriver!(No symbol) [0x7ff6b36b9018]
+	chromedriver!(No symbol) [0x7ff6b36b9f03]
+	chromedriver!GetHandleVerifier [0x7ff6b3c15949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6b3c0fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff6b3c33102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6b391d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6b392605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6b3909684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6b3909836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6b38ee347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffb8a06e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffb8a5ec53c+2c]
+
+2026-06-15 16:57:20,334 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 149.0.7827.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7da430295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7da430300+14740]
+	chromedriver!(No symbol) [0x7ff7da19d7cd]
+	chromedriver!(No symbol) [0x7ff7da1e59bd]
+	chromedriver!(No symbol) [0x7ff7da1e4705]
+	chromedriver!(No symbol) [0x7ff7da1dea81]
+	chromedriver!(No symbol) [0x7ff7da1d9559]
+	chromedriver!(No symbol) [0x7ff7da22dc21]
+	chromedriver!(No symbol) [0x7ff7da22d486]
+	chromedriver!(No symbol) [0x7ff7da1e9018]
+	chromedriver!(No symbol) [0x7ff7da1e9f03]
+	chromedriver!GetHandleVerifier [0x7ff7da745949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7da73fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7da763102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7da44d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7da45605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7da439684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7da439836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7da41e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffb8a06e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffb8a5ec53c+2c]
+
+2026-06-15 16:58:04,187 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 149.0.7827.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7da430295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff7da430300+14740]
+	chromedriver!(No symbol) [0x7ff7da19d7cd]
+	chromedriver!(No symbol) [0x7ff7da1e59bd]
+	chromedriver!(No symbol) [0x7ff7da1e4705]
+	chromedriver!(No symbol) [0x7ff7da1dea81]
+	chromedriver!(No symbol) [0x7ff7da1d9559]
+	chromedriver!(No symbol) [0x7ff7da22dc21]
+	chromedriver!(No symbol) [0x7ff7da22d486]
+	chromedriver!(No symbol) [0x7ff7da1e9018]
+	chromedriver!(No symbol) [0x7ff7da1e9f03]
+	chromedriver!GetHandleVerifier [0x7ff7da745949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff7da73fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff7da763102+347542]
+	chromedriver!GetHandleVerifier [0x7ff7da44d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff7da45605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff7da439684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff7da439836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff7da41e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffb8a06e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffb8a5ec53c+2c]
+
+2026-06-17 16:20:52,166 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 149.0.7827.155 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6960d0295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff6960d0300+14740]
+	chromedriver!(No symbol) [0x7ff695e3d7cd]
+	chromedriver!(No symbol) [0x7ff695e859bd]
+	chromedriver!(No symbol) [0x7ff695e84705]
+	chromedriver!(No symbol) [0x7ff695e7ea81]
+	chromedriver!(No symbol) [0x7ff695e79559]
+	chromedriver!(No symbol) [0x7ff695ecdc21]
+	chromedriver!(No symbol) [0x7ff695ecd486]
+	chromedriver!(No symbol) [0x7ff695e89018]
+	chromedriver!(No symbol) [0x7ff695e89f03]
+	chromedriver!GetHandleVerifier [0x7ff6963e5949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff6963dfe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff696403102+347542]
+	chromedriver!GetHandleVerifier [0x7ff6960ed425+31865]
+	chromedriver!GetHandleVerifier [0x7ff6960f605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff6960d9684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff6960d9836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff6960be347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffdae4ae8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdaed0c53c+2c]
+
+2026-08-11 11:47:35,460 [ERROR] \U0001f525 Selenium launcher failed: Message: session not created: This version of ChromeDriver only supports Chrome version 147
+Current browser version is 151.0.7922.76 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff723820295+146d5]
+	chromedriver!GetHandleVerifier [0x7ff723820300+14740]
+	chromedriver!(No symbol) [0x7ff72358d7cd]
+	chromedriver!(No symbol) [0x7ff7235d59bd]
+	chromedriver!(No symbol) [0x7ff7235d4705]
+	chromedriver!(No symbol) [0x7ff7235cea81]
+	chromedriver!(No symbol) [0x7ff7235c9559]
+	chromedriver!(No symbol) [0x7ff72361dc21]
+	chromedriver!(No symbol) [0x7ff72361d486]
+	chromedriver!(No symbol) [0x7ff7235d9018]
+	chromedriver!(No symbol) [0x7ff7235d9f03]
+	chromedriver!GetHandleVerifier [0x7ff723b35949+329d89]
+	chromedriver!GetHandleVerifier [0x7ff723b2fe96+3242d6]
+	chromedriver!GetHandleVerifier [0x7ff723b53102+347542]
+	chromedriver!GetHandleVerifier [0x7ff72383d425+31865]
+	chromedriver!GetHandleVerifier [0x7ff72384605c+3a49c]
+	chromedriver!GetHandleVerifier [0x7ff723829684+1dac4]
+	chromedriver!GetHandleVerifier [0x7ff723829836+1dc76]
+	chromedriver!GetHandleVerifier [0x7ff72380e347+2787]
+	KERNEL32!BaseThreadInitThunk [0x7ffd0546e957+17]
+	ntdll!RtlUserThreadStart [0x7ffd066aad6c+2c]
+

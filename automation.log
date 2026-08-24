@@ -1,0 +1,951 @@
+2026-04-06 17:08:51,399 [INFO] \u2705 WinAppDriver ready
+2026-04-06 17:09:07,459 [ERROR] \U0001f525 Selenium/Web Stage Failed: 'sessionId'
+2026-04-06 17:09:15,546 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-06 17:09:15,546 [WARNING] Click failed: NyKundeMenu.png
+2026-04-06 17:09:16,572 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-06 17:09:16,572 [WARNING] Click failed: NyKundeMenu.png
+2026-04-06 17:09:17,573 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-06 17:09:17,573 [WARNING] Click failed: NyKundeMenu.png
+2026-04-06 17:09:18,583 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-06 17:09:18,893 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260406_170918.png
+2026-04-06 17:09:18,893 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-06 17:09:18,895 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-06 17:09:19,911 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-06 17:09:19,911 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-06 17:09:20,915 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-06 17:09:20,915 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-06 17:09:21,931 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-06 17:09:22,024 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260406_170921.png
+2026-04-06 17:09:22,024 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-06 17:09:22,025 [WARNING] Click failed: PersonOption.png
+2026-04-06 17:09:23,033 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-06 17:09:23,033 [WARNING] Click failed: PersonOption.png
+2026-04-06 17:09:24,043 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-06 17:09:24,043 [WARNING] Click failed: PersonOption.png
+2026-04-06 17:09:25,063 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-06 17:09:25,240 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260406_170925.png
+2026-04-06 17:09:25,240 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-06 17:09:25,240 [WARNING] Click failed: FodselsnrField.png
+2026-04-06 17:09:26,257 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-06 17:09:26,257 [WARNING] Click failed: FodselsnrField.png
+2026-04-06 17:09:27,258 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-06 17:09:27,258 [WARNING] Click failed: FodselsnrField.png
+2026-04-06 17:09:28,261 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-06 17:09:28,433 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260406_170928.png
+2026-04-06 17:09:30,603 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-06 17:09:30,603 [WARNING] Click failed: NorgeLink.png
+2026-04-06 17:09:31,603 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-06 17:09:31,603 [WARNING] Click failed: NorgeLink.png
+2026-04-06 17:09:32,608 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-06 17:09:32,608 [WARNING] Click failed: NorgeLink.png
+2026-04-06 17:09:33,608 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-06 17:09:33,720 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260406_170933.png
+2026-04-06 17:09:33,720 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-06 17:09:33,720 [WARNING] Click failed: NextStep.png
+2026-04-06 17:09:34,720 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-06 17:09:34,720 [WARNING] Click failed: NextStep.png
+2026-04-06 17:09:35,724 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-06 17:09:35,724 [WARNING] Click failed: NextStep.png
+2026-04-06 17:09:36,725 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-06 17:09:36,813 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260406_170936.png
+2026-04-06 17:09:36,813 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-06 17:09:36,813 [WARNING] Click failed: Fornavn.png
+2026-04-06 17:09:37,823 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-06 17:09:37,823 [WARNING] Click failed: Fornavn.png
+2026-04-06 17:09:38,827 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-06 17:09:38,827 [WARNING] Click failed: Fornavn.png
+2026-04-06 17:09:39,830 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-06 17:09:39,910 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260406_170939.png
+2026-04-06 17:09:40,625 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-06 17:09:40,625 [WARNING] Click failed: Etternavn.png
+2026-04-06 17:09:41,627 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-06 17:09:41,627 [WARNING] Click failed: Etternavn.png
+2026-04-06 17:09:42,642 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-06 17:09:42,642 [WARNING] Click failed: Etternavn.png
+2026-04-06 17:09:43,642 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-06 17:09:43,709 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260406_170943.png
+2026-04-06 17:09:44,455 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-06 17:09:44,455 [WARNING] Click failed: LandDropdown.png
+2026-04-06 17:09:45,457 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-06 17:09:45,457 [WARNING] Click failed: LandDropdown.png
+2026-04-06 17:09:46,460 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-06 17:09:46,460 [WARNING] Click failed: LandDropdown.png
+2026-04-06 17:09:47,473 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-06 17:09:47,561 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260406_170947.png
+2026-04-06 17:09:47,561 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-06 17:09:47,561 [WARNING] Click failed: LandCountry.png
+2026-04-06 17:09:48,614 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-06 17:09:48,616 [WARNING] Click failed: LandCountry.png
+2026-04-06 17:09:49,619 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-06 17:09:49,619 [WARNING] Click failed: LandCountry.png
+2026-04-06 17:09:50,622 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-06 17:09:50,690 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260406_170950.png
+2026-04-06 17:09:50,690 [INFO] Validating text: Yes
+2026-04-06 17:09:54,011 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-06 17:09:54,636 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260406_170954.png
+2026-04-06 17:09:54,636 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-06 17:09:54,638 [WARNING] Click failed: YesClick.png
+2026-04-06 17:09:55,650 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-06 17:09:55,650 [WARNING] Click failed: YesClick.png
+2026-04-06 17:09:56,652 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-06 17:09:56,652 [WARNING] Click failed: YesClick.png
+2026-04-06 17:09:57,653 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-06 17:09:57,742 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260406_170957.png
+2026-04-06 17:09:57,742 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-06 17:09:57,742 [WARNING] Click failed: center_scroll_handle.png
+2026-04-06 17:09:58,834 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-06 17:09:58,834 [WARNING] Click failed: center_scroll_handle.png
+2026-04-06 17:09:59,839 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-06 17:09:59,839 [WARNING] Click failed: center_scroll_handle.png
+2026-04-06 17:10:00,842 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-06 17:10:00,905 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260406_171000.png
+2026-04-07 11:31:44,653 [INFO] \u2705 WinAppDriver ready
+2026-04-07 11:31:59,352 [ERROR] \U0001f525 Selenium/Web Stage Failed: 'sessionId'
+2026-04-07 11:32:07,358 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-07 11:32:07,360 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:32:08,369 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-07 11:32:08,369 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:32:09,392 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-07 11:32:09,392 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:32:10,396 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-07 11:32:11,094 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260407_113210.png
+2026-04-07 11:32:11,094 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-07 11:32:11,094 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:32:12,106 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-07 11:32:12,106 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:32:13,114 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-07 11:32:13,114 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:32:14,129 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-07 11:32:14,284 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260407_113214.png
+2026-04-07 11:32:14,284 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-07 11:32:14,284 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:32:15,286 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-07 11:32:15,286 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:32:16,291 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-07 11:32:16,293 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:32:17,300 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-07 11:32:17,401 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260407_113217.png
+2026-04-07 11:32:17,401 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-07 11:32:17,401 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:32:18,405 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-07 11:32:18,405 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:32:19,419 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-07 11:32:19,419 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:32:20,428 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-07 11:32:20,576 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260407_113220.png
+2026-04-07 11:32:22,659 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-07 11:32:22,659 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:32:23,665 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-07 11:32:23,665 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:32:24,679 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-07 11:32:24,679 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:32:25,737 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-07 11:32:25,966 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260407_113225.png
+2026-04-07 11:32:25,966 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-07 11:32:25,966 [WARNING] Click failed: NextStep.png
+2026-04-07 11:32:26,972 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-07 11:32:26,972 [WARNING] Click failed: NextStep.png
+2026-04-07 11:32:27,975 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-07 11:32:27,975 [WARNING] Click failed: NextStep.png
+2026-04-07 11:32:28,989 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-07 11:32:29,125 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260407_113228.png
+2026-04-07 11:32:29,125 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-07 11:32:29,125 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:32:30,288 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-07 11:32:30,288 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:32:31,306 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-07 11:32:31,306 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:32:32,313 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-07 11:32:32,478 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260407_113232.png
+2026-04-07 11:32:33,224 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-07 11:32:33,225 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:32:34,239 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-07 11:32:34,239 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:32:35,240 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-07 11:32:35,240 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:32:36,254 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-07 11:32:36,405 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260407_113236.png
+2026-04-07 11:32:37,116 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-07 11:32:37,116 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:32:38,121 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-07 11:32:38,121 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:32:39,130 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-07 11:32:39,130 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:32:40,133 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-07 11:32:40,237 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260407_113240.png
+2026-04-07 11:32:40,240 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-07 11:32:40,240 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:32:41,242 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-07 11:32:41,242 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:32:42,257 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-07 11:32:42,257 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:32:43,272 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-07 11:32:43,375 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260407_113243.png
+2026-04-07 11:32:43,377 [INFO] Validating text: Yes
+2026-04-07 11:32:49,495 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-07 11:32:49,646 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260407_113249.png
+2026-04-07 11:32:49,646 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-07 11:32:49,648 [WARNING] Click failed: YesClick.png
+2026-04-07 11:32:50,668 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-07 11:32:50,668 [WARNING] Click failed: YesClick.png
+2026-04-07 11:32:51,680 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-07 11:32:51,680 [WARNING] Click failed: YesClick.png
+2026-04-07 11:32:52,693 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-07 11:32:52,908 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260407_113252.png
+2026-04-07 11:32:52,908 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-07 11:32:52,908 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:32:53,908 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-07 11:32:53,908 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:32:54,922 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-07 11:32:54,922 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:32:55,936 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-07 11:32:56,027 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260407_113255.png
+2026-04-07 11:35:21,308 [INFO] \u2705 WinAppDriver ready
+2026-04-07 11:35:34,757 [ERROR] \U0001f525 Selenium/Web Stage Failed: 'sessionId'
+2026-04-07 11:35:42,769 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-07 11:35:42,769 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:35:43,801 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-07 11:35:43,801 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:35:44,806 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-07 11:35:44,806 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:35:45,826 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-07 11:35:46,121 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260407_113545.png
+2026-04-07 11:35:46,123 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-07 11:35:46,123 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:35:47,235 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-07 11:35:47,235 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:35:48,244 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-07 11:35:48,244 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:35:49,253 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-07 11:35:49,385 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260407_113549.png
+2026-04-07 11:35:49,385 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-07 11:35:49,385 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:35:50,401 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-07 11:35:50,401 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:35:51,402 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-07 11:35:51,402 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:35:52,417 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-07 11:35:52,567 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260407_113552.png
+2026-04-07 11:35:52,567 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-07 11:35:52,567 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:35:53,584 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-07 11:35:53,584 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:35:54,599 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-07 11:35:54,599 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:35:55,621 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-07 11:35:55,779 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260407_113555.png
+2026-04-07 11:35:57,777 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-07 11:35:57,777 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:35:58,791 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-07 11:35:58,791 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:35:59,800 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-07 11:35:59,800 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:36:00,801 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-07 11:36:00,907 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260407_113600.png
+2026-04-07 11:36:00,907 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-07 11:36:00,909 [WARNING] Click failed: NextStep.png
+2026-04-07 11:36:01,918 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-07 11:36:01,920 [WARNING] Click failed: NextStep.png
+2026-04-07 11:36:02,933 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-07 11:36:02,933 [WARNING] Click failed: NextStep.png
+2026-04-07 11:36:03,944 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-07 11:36:04,104 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260407_113603.png
+2026-04-07 11:36:04,104 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-07 11:36:04,104 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:36:05,105 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-07 11:36:05,105 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:36:06,118 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-07 11:36:06,118 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:36:07,120 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-07 11:36:07,237 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260407_113607.png
+2026-04-07 11:36:07,955 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-07 11:36:07,955 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:36:08,969 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-07 11:36:08,969 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:36:09,984 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-07 11:36:09,984 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:36:10,986 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-07 11:36:11,100 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260407_113610.png
+2026-04-07 11:36:11,802 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-07 11:36:11,802 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:36:12,809 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-07 11:36:12,809 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:36:13,820 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-07 11:36:13,820 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:36:14,826 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-07 11:36:14,946 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260407_113614.png
+2026-04-07 11:36:14,946 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-07 11:36:14,946 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:36:15,947 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-07 11:36:15,947 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:36:16,947 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-07 11:36:16,947 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:36:17,961 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-07 11:36:18,074 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260407_113617.png
+2026-04-07 11:36:18,074 [INFO] Validating text: Yes
+2026-04-07 11:36:19,090 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-07 11:36:19,350 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260407_113619.png
+2026-04-07 11:36:19,350 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-07 11:36:19,352 [WARNING] Click failed: YesClick.png
+2026-04-07 11:36:20,365 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-07 11:36:20,365 [WARNING] Click failed: YesClick.png
+2026-04-07 11:36:21,366 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-07 11:36:21,366 [WARNING] Click failed: YesClick.png
+2026-04-07 11:36:22,376 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-07 11:36:22,487 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260407_113622.png
+2026-04-07 11:36:22,487 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-07 11:36:22,487 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:36:23,502 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-07 11:36:23,502 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:36:24,511 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-07 11:36:24,511 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:36:25,525 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-07 11:36:25,634 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260407_113625.png
+2026-04-07 11:50:04,066 [INFO] \u2705 WinAppDriver ready
+2026-04-07 11:50:16,272 [INFO] Waiting for Citrix popup...
+2026-04-07 11:50:16,272 [ERROR] \U0001f525 Selenium/Web Stage Failed: wait_for_port() got multiple values for argument 'timeout'
+2026-04-07 11:50:24,286 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-07 11:50:24,286 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:50:25,296 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-07 11:50:25,296 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:50:26,307 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-07 11:50:26,307 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:50:27,318 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-07 11:50:27,691 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260407_115027.png
+2026-04-07 11:50:27,691 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-07 11:50:27,691 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:50:28,694 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-07 11:50:28,694 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:50:29,730 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-07 11:50:29,730 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:50:30,742 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-07 11:50:30,837 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260407_115030.png
+2026-04-07 11:50:30,837 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-07 11:50:30,837 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:50:31,854 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-07 11:50:31,854 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:50:32,934 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-07 11:50:32,934 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:50:33,950 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-07 11:50:34,272 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260407_115033.png
+2026-04-07 11:50:34,272 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-07 11:50:34,272 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:50:35,278 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-07 11:50:35,278 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:50:36,289 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-07 11:50:36,290 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:50:37,389 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-07 11:50:37,682 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260407_115037.png
+2026-04-07 11:50:39,778 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-07 11:50:39,778 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:50:40,792 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-07 11:50:40,792 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:50:41,840 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-07 11:50:41,874 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:50:42,885 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-07 11:50:42,975 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260407_115042.png
+2026-04-07 11:50:42,975 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-07 11:50:42,975 [WARNING] Click failed: NextStep.png
+2026-04-07 11:50:43,989 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-07 11:50:43,989 [WARNING] Click failed: NextStep.png
+2026-04-07 11:50:45,020 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-07 11:50:45,049 [WARNING] Click failed: NextStep.png
+2026-04-07 11:50:46,064 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-07 11:50:46,168 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260407_115046.png
+2026-04-07 11:50:46,168 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-07 11:50:46,168 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:50:47,174 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-07 11:50:47,174 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:50:48,189 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-07 11:50:48,189 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:50:49,189 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-07 11:50:49,347 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260407_115049.png
+2026-04-07 11:50:50,053 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-07 11:50:50,053 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:50:51,055 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-07 11:50:51,055 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:50:52,139 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-07 11:50:52,139 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:50:53,154 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-07 11:50:53,260 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260407_115053.png
+2026-04-07 11:50:54,233 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-07 11:50:54,233 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:50:55,237 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-07 11:50:55,237 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:50:56,241 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-07 11:50:56,241 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:50:57,252 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-07 11:50:57,394 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260407_115057.png
+2026-04-07 11:50:57,394 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-07 11:50:57,396 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:50:58,402 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-07 11:50:58,402 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:50:59,414 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-07 11:50:59,414 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:51:00,430 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-07 11:51:00,547 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260407_115100.png
+2026-04-07 11:51:00,547 [INFO] Validating text: Yes
+2026-04-07 11:51:04,062 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-07 11:51:04,555 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260407_115104.png
+2026-04-07 11:51:04,555 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-07 11:51:04,555 [WARNING] Click failed: YesClick.png
+2026-04-07 11:51:05,562 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-07 11:51:05,562 [WARNING] Click failed: YesClick.png
+2026-04-07 11:51:06,563 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-07 11:51:06,563 [WARNING] Click failed: YesClick.png
+2026-04-07 11:51:07,576 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-07 11:51:07,839 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260407_115107.png
+2026-04-07 11:51:07,839 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-07 11:51:07,839 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:51:08,843 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-07 11:51:08,843 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:51:09,858 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-07 11:51:09,858 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:51:10,859 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-07 11:51:10,964 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260407_115110.png
+2026-04-07 11:58:49,989 [INFO] \u2705 WinAppDriver ready
+2026-04-07 11:59:02,388 [INFO] Waiting for Citrix popup...
+2026-04-07 11:59:02,388 [ERROR] \U0001f525 Selenium/Web Stage Failed: wait_for_port() got multiple values for argument 'timeout'
+2026-04-07 11:59:10,452 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-07 11:59:10,452 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:59:11,465 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-07 11:59:11,465 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:59:12,496 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-07 11:59:12,496 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 11:59:13,509 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-07 11:59:14,563 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260407_115913.png
+2026-04-07 11:59:14,563 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-07 11:59:14,563 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:59:15,570 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-07 11:59:15,570 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:59:16,575 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-07 11:59:16,576 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 11:59:17,579 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-07 11:59:17,705 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260407_115917.png
+2026-04-07 11:59:17,705 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-07 11:59:17,705 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:59:18,770 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-07 11:59:18,771 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:59:19,786 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-07 11:59:19,786 [WARNING] Click failed: PersonOption.png
+2026-04-07 11:59:20,855 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-07 11:59:21,217 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260407_115920.png
+2026-04-07 11:59:21,218 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-07 11:59:21,218 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:59:22,276 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-07 11:59:22,276 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:59:23,289 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-07 11:59:23,291 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 11:59:24,297 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-07 11:59:24,400 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260407_115924.png
+2026-04-07 11:59:26,185 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-07 11:59:26,185 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:59:27,190 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-07 11:59:27,190 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:59:28,197 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-07 11:59:28,197 [WARNING] Click failed: NorgeLink.png
+2026-04-07 11:59:29,203 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-07 11:59:29,322 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260407_115929.png
+2026-04-07 11:59:29,324 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-07 11:59:29,324 [WARNING] Click failed: NextStep.png
+2026-04-07 11:59:30,328 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-07 11:59:30,329 [WARNING] Click failed: NextStep.png
+2026-04-07 11:59:31,339 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-07 11:59:31,339 [WARNING] Click failed: NextStep.png
+2026-04-07 11:59:32,346 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-07 11:59:32,449 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260407_115932.png
+2026-04-07 11:59:32,449 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-07 11:59:32,449 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:59:33,457 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-07 11:59:33,457 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:59:34,469 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-07 11:59:34,469 [WARNING] Click failed: Fornavn.png
+2026-04-07 11:59:35,470 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-07 11:59:35,565 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260407_115935.png
+2026-04-07 11:59:36,322 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-07 11:59:36,322 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:59:37,339 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-07 11:59:37,339 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:59:38,353 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-07 11:59:38,354 [WARNING] Click failed: Etternavn.png
+2026-04-07 11:59:39,363 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-07 11:59:39,545 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260407_115939.png
+2026-04-07 11:59:40,292 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-07 11:59:40,292 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:59:41,295 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-07 11:59:41,295 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:59:42,301 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-07 11:59:42,301 [WARNING] Click failed: LandDropdown.png
+2026-04-07 11:59:43,312 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-07 11:59:43,426 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260407_115943.png
+2026-04-07 11:59:43,426 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-07 11:59:43,426 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:59:44,439 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-07 11:59:44,439 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:59:45,440 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-07 11:59:45,440 [WARNING] Click failed: LandCountry.png
+2026-04-07 11:59:46,456 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-07 11:59:46,553 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260407_115946.png
+2026-04-07 11:59:46,553 [INFO] Validating text: Yes
+2026-04-07 11:59:47,996 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-07 11:59:48,180 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260407_115947.png
+2026-04-07 11:59:48,180 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-07 11:59:48,180 [WARNING] Click failed: YesClick.png
+2026-04-07 11:59:49,185 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-07 11:59:49,185 [WARNING] Click failed: YesClick.png
+2026-04-07 11:59:50,190 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-07 11:59:50,190 [WARNING] Click failed: YesClick.png
+2026-04-07 11:59:51,200 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-07 11:59:51,433 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260407_115951.png
+2026-04-07 11:59:51,433 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-07 11:59:51,433 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:59:52,447 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-07 11:59:52,447 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:59:53,449 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-07 11:59:53,449 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 11:59:54,463 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-07 11:59:54,556 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260407_115954.png
+2026-04-07 13:40:20,154 [INFO] \u2705 WinAppDriver ready
+2026-04-07 13:40:32,752 [INFO] Waiting for Citrix popup...
+2026-04-07 13:40:32,752 [ERROR] \U0001f525 Selenium/Web Stage Failed: wait_for_port() got multiple values for argument 'timeout'
+2026-04-07 13:40:40,787 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-07 13:40:40,787 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 13:40:41,810 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-07 13:40:41,810 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 13:40:42,819 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-07 13:40:42,819 [WARNING] Click failed: NyKundeMenu.png
+2026-04-07 13:40:43,844 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-07 13:40:44,351 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260407_134043.png
+2026-04-07 13:40:44,353 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-07 13:40:44,353 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 13:40:45,361 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-07 13:40:45,361 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 13:40:46,393 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-07 13:40:46,393 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-07 13:40:47,399 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-07 13:40:47,516 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260407_134047.png
+2026-04-07 13:40:47,516 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-07 13:40:47,516 [WARNING] Click failed: PersonOption.png
+2026-04-07 13:40:48,533 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-07 13:40:48,533 [WARNING] Click failed: PersonOption.png
+2026-04-07 13:40:49,538 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-07 13:40:49,538 [WARNING] Click failed: PersonOption.png
+2026-04-07 13:40:50,549 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-07 13:40:50,668 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260407_134050.png
+2026-04-07 13:40:50,668 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-07 13:40:50,668 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 13:40:52,172 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-07 13:40:52,172 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 13:40:53,907 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-07 13:40:53,909 [WARNING] Click failed: FodselsnrField.png
+2026-04-07 13:40:54,925 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-07 13:40:55,055 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260407_134054.png
+2026-04-07 13:40:56,986 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-07 13:40:56,986 [WARNING] Click failed: NorgeLink.png
+2026-04-07 13:40:57,992 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-07 13:40:57,992 [WARNING] Click failed: NorgeLink.png
+2026-04-07 13:40:59,016 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-07 13:40:59,016 [WARNING] Click failed: NorgeLink.png
+2026-04-07 13:41:00,021 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-07 13:41:00,144 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260407_134100.png
+2026-04-07 13:41:00,144 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-07 13:41:00,144 [WARNING] Click failed: NextStep.png
+2026-04-07 13:41:01,148 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-07 13:41:01,149 [WARNING] Click failed: NextStep.png
+2026-04-07 13:41:02,208 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-07 13:41:02,208 [WARNING] Click failed: NextStep.png
+2026-04-07 13:41:03,210 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-07 13:41:03,308 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260407_134103.png
+2026-04-07 13:41:03,308 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-07 13:41:03,308 [WARNING] Click failed: Fornavn.png
+2026-04-07 13:41:04,319 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-07 13:41:04,319 [WARNING] Click failed: Fornavn.png
+2026-04-07 13:41:05,401 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-07 13:41:05,401 [WARNING] Click failed: Fornavn.png
+2026-04-07 13:41:07,702 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-07 13:41:08,019 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260407_134107.png
+2026-04-07 13:41:08,845 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-07 13:41:08,845 [WARNING] Click failed: Etternavn.png
+2026-04-07 13:41:09,850 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-07 13:41:09,850 [WARNING] Click failed: Etternavn.png
+2026-04-07 13:41:10,853 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-07 13:41:10,853 [WARNING] Click failed: Etternavn.png
+2026-04-07 13:41:11,863 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-07 13:41:11,985 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260407_134111.png
+2026-04-07 13:41:12,673 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-07 13:41:12,673 [WARNING] Click failed: LandDropdown.png
+2026-04-07 13:41:13,681 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-07 13:41:13,681 [WARNING] Click failed: LandDropdown.png
+2026-04-07 13:41:14,690 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-07 13:41:14,691 [WARNING] Click failed: LandDropdown.png
+2026-04-07 13:41:15,704 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-07 13:41:15,799 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260407_134115.png
+2026-04-07 13:41:15,799 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-07 13:41:15,799 [WARNING] Click failed: LandCountry.png
+2026-04-07 13:41:16,813 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-07 13:41:16,813 [WARNING] Click failed: LandCountry.png
+2026-04-07 13:41:17,867 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-07 13:41:17,867 [WARNING] Click failed: LandCountry.png
+2026-04-07 13:41:18,867 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-07 13:41:18,962 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260407_134118.png
+2026-04-07 13:41:18,962 [INFO] Validating text: Yes
+2026-04-07 13:41:20,516 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-07 13:41:20,953 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260407_134120.png
+2026-04-07 13:41:20,953 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-07 13:41:20,953 [WARNING] Click failed: YesClick.png
+2026-04-07 13:41:23,305 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-07 13:41:23,305 [WARNING] Click failed: YesClick.png
+2026-04-07 13:41:24,316 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-07 13:41:24,316 [WARNING] Click failed: YesClick.png
+2026-04-07 13:41:25,319 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-07 13:41:25,402 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260407_134125.png
+2026-04-07 13:41:25,402 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-07 13:41:25,402 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 13:41:26,440 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-07 13:41:26,440 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 13:41:27,449 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-07 13:41:27,449 [WARNING] Click failed: center_scroll_handle.png
+2026-04-07 13:41:28,452 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-07 13:41:28,529 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260407_134128.png
+2026-04-10 15:54:37,929 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-10 15:54:37,933 [WARNING] Click failed: NyKundeMenu.png
+2026-04-10 15:54:38,939 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-10 15:54:38,939 [WARNING] Click failed: NyKundeMenu.png
+2026-04-10 15:54:39,953 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-10 15:54:39,953 [WARNING] Click failed: NyKundeMenu.png
+2026-04-10 15:54:40,965 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-10 15:54:41,288 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260410_155440.png
+2026-04-10 15:54:41,288 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-10 15:54:41,288 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-10 15:54:42,289 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-10 15:54:42,289 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-10 15:54:43,294 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-10 15:54:43,295 [WARNING] Click failed: KundetypeDropdown.png
+2026-04-10 15:54:44,301 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-10 15:54:44,421 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260410_155444.png
+2026-04-10 15:54:44,422 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-10 15:54:44,422 [WARNING] Click failed: PersonOption.png
+2026-04-10 15:54:45,438 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-10 15:54:45,438 [WARNING] Click failed: PersonOption.png
+2026-04-10 15:54:46,451 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-10 15:54:46,451 [WARNING] Click failed: PersonOption.png
+2026-04-10 15:54:47,454 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-10 15:54:47,640 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260410_155447.png
+2026-04-10 15:54:47,641 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-10 15:54:47,641 [WARNING] Click failed: FodselsnrField.png
+2026-04-10 15:54:48,642 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-10 15:54:48,642 [WARNING] Click failed: FodselsnrField.png
+2026-04-10 15:54:49,645 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-10 15:54:49,645 [WARNING] Click failed: FodselsnrField.png
+2026-04-10 15:54:50,654 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-10 15:54:50,843 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260410_155450.png
+2026-04-10 15:54:52,277 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-10 15:54:52,277 [WARNING] Click failed: NorgeLink.png
+2026-04-10 15:54:53,288 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-10 15:54:53,288 [WARNING] Click failed: NorgeLink.png
+2026-04-10 15:54:54,299 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-10 15:54:54,300 [WARNING] Click failed: NorgeLink.png
+2026-04-10 15:54:55,308 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-10 15:54:55,431 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260410_155455.png
+2026-04-10 15:54:55,432 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-10 15:54:55,432 [WARNING] Click failed: NextStep.png
+2026-04-10 15:54:56,437 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-10 15:54:56,438 [WARNING] Click failed: NextStep.png
+2026-04-10 15:54:57,448 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-10 15:54:57,449 [WARNING] Click failed: NextStep.png
+2026-04-10 15:54:58,459 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-10 15:54:58,579 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260410_155458.png
+2026-04-10 15:54:58,579 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-10 15:54:58,579 [WARNING] Click failed: Fornavn.png
+2026-04-10 15:54:59,588 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-10 15:54:59,589 [WARNING] Click failed: Fornavn.png
+2026-04-10 15:55:00,595 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-10 15:55:00,595 [WARNING] Click failed: Fornavn.png
+2026-04-10 15:55:01,600 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-10 15:55:01,711 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260410_155501.png
+2026-04-10 15:55:02,228 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-10 15:55:02,228 [WARNING] Click failed: Etternavn.png
+2026-04-10 15:55:03,240 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-10 15:55:03,241 [WARNING] Click failed: Etternavn.png
+2026-04-10 15:55:04,253 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-10 15:55:04,254 [WARNING] Click failed: Etternavn.png
+2026-04-10 15:55:05,267 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-10 15:55:05,391 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260410_155505.png
+2026-04-10 15:55:05,878 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-10 15:55:05,878 [WARNING] Click failed: LandDropdown.png
+2026-04-10 15:55:06,878 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-10 15:55:06,880 [WARNING] Click failed: LandDropdown.png
+2026-04-10 15:55:07,885 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-10 15:55:07,885 [WARNING] Click failed: LandDropdown.png
+2026-04-10 15:55:08,901 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-10 15:55:09,028 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260410_155508.png
+2026-04-10 15:55:09,028 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-10 15:55:09,028 [WARNING] Click failed: LandCountry.png
+2026-04-10 15:55:10,038 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-10 15:55:10,039 [WARNING] Click failed: LandCountry.png
+2026-04-10 15:55:11,052 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-10 15:55:11,052 [WARNING] Click failed: LandCountry.png
+2026-04-10 15:55:12,058 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-10 15:55:12,186 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260410_155512.png
+2026-04-10 15:55:12,186 [INFO] Validating text: Yes
+2026-04-10 15:55:16,355 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-10 15:55:16,602 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260410_155516.png
+2026-04-10 15:55:16,602 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-10 15:55:16,603 [WARNING] Click failed: YesClick.png
+2026-04-10 15:55:17,610 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-10 15:55:17,611 [WARNING] Click failed: YesClick.png
+2026-04-10 15:55:18,616 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-10 15:55:18,616 [WARNING] Click failed: YesClick.png
+2026-04-10 15:55:19,626 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-10 15:55:19,734 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260410_155519.png
+2026-04-10 15:55:19,734 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-10 15:55:19,734 [WARNING] Click failed: center_scroll_handle.png
+2026-04-10 15:55:20,747 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-10 15:55:20,747 [WARNING] Click failed: center_scroll_handle.png
+2026-04-10 15:55:21,756 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-10 15:55:21,757 [WARNING] Click failed: center_scroll_handle.png
+2026-04-10 15:55:22,766 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-10 15:55:22,898 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260410_155522.png
+2026-04-10 16:52:40,697 [INFO] Sikuli: Attempt 1 click on NyKundeMenu.png
+2026-04-10 16:52:41,327 [WARNING] Click failed: NyKundeMenu.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:42,331 [INFO] Sikuli: Attempt 2 click on NyKundeMenu.png
+2026-04-10 16:52:42,331 [WARNING] Click failed: NyKundeMenu.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:43,334 [INFO] Sikuli: Attempt 3 click on NyKundeMenu.png
+2026-04-10 16:52:43,336 [WARNING] Click failed: NyKundeMenu.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:44,346 [ERROR] \u274c Failed to click: NyKundeMenu.png
+2026-04-10 16:52:44,649 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NyKundeMenu.png_20260410_165244.png
+2026-04-10 16:52:44,649 [INFO] Sikuli: Attempt 1 click on KundetypeDropdown.png
+2026-04-10 16:52:44,655 [WARNING] Click failed: KundetypeDropdown.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:45,666 [INFO] Sikuli: Attempt 2 click on KundetypeDropdown.png
+2026-04-10 16:52:45,674 [WARNING] Click failed: KundetypeDropdown.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:46,685 [INFO] Sikuli: Attempt 3 click on KundetypeDropdown.png
+2026-04-10 16:52:46,685 [WARNING] Click failed: KundetypeDropdown.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:48,130 [ERROR] \u274c Failed to click: KundetypeDropdown.png
+2026-04-10 16:52:49,000 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_KundetypeDropdown.png_20260410_165248.png
+2026-04-10 16:52:49,000 [INFO] Sikuli: Attempt 1 click on PersonOption.png
+2026-04-10 16:52:49,004 [WARNING] Click failed: PersonOption.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:50,016 [INFO] Sikuli: Attempt 2 click on PersonOption.png
+2026-04-10 16:52:50,024 [WARNING] Click failed: PersonOption.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:51,027 [INFO] Sikuli: Attempt 3 click on PersonOption.png
+2026-04-10 16:52:51,027 [WARNING] Click failed: PersonOption.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:52,028 [ERROR] \u274c Failed to click: PersonOption.png
+2026-04-10 16:52:52,146 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_PersonOption.png_20260410_165252.png
+2026-04-10 16:52:52,146 [INFO] Sikuli: Attempt 1 click on FodselsnrField.png
+2026-04-10 16:52:52,152 [WARNING] Click failed: FodselsnrField.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:53,167 [INFO] Sikuli: Attempt 2 click on FodselsnrField.png
+2026-04-10 16:52:53,167 [WARNING] Click failed: FodselsnrField.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:54,183 [INFO] Sikuli: Attempt 3 click on FodselsnrField.png
+2026-04-10 16:52:54,194 [WARNING] Click failed: FodselsnrField.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:55,196 [ERROR] \u274c Failed to click: FodselsnrField.png
+2026-04-10 16:52:55,321 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_FodselsnrField.png_20260410_165255.png
+2026-04-10 16:52:56,784 [INFO] Sikuli: Attempt 1 click on NorgeLink.png
+2026-04-10 16:52:56,786 [WARNING] Click failed: NorgeLink.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:57,790 [INFO] Sikuli: Attempt 2 click on NorgeLink.png
+2026-04-10 16:52:57,796 [WARNING] Click failed: NorgeLink.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:58,805 [INFO] Sikuli: Attempt 3 click on NorgeLink.png
+2026-04-10 16:52:58,805 [WARNING] Click failed: NorgeLink.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:52:59,822 [ERROR] \u274c Failed to click: NorgeLink.png
+2026-04-10 16:52:59,961 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NorgeLink.png_20260410_165259.png
+2026-04-10 16:52:59,961 [INFO] Sikuli: Attempt 1 click on NextStep.png
+2026-04-10 16:52:59,982 [WARNING] Click failed: NextStep.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:00,993 [INFO] Sikuli: Attempt 2 click on NextStep.png
+2026-04-10 16:53:01,002 [WARNING] Click failed: NextStep.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:02,795 [INFO] Sikuli: Attempt 3 click on NextStep.png
+2026-04-10 16:53:03,069 [WARNING] Click failed: NextStep.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:04,075 [ERROR] \u274c Failed to click: NextStep.png
+2026-04-10 16:53:04,198 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_NextStep.png_20260410_165304.png
+2026-04-10 16:53:04,198 [INFO] Sikuli: Attempt 1 click on Fornavn.png
+2026-04-10 16:53:04,202 [WARNING] Click failed: Fornavn.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:05,217 [INFO] Sikuli: Attempt 2 click on Fornavn.png
+2026-04-10 16:53:05,217 [WARNING] Click failed: Fornavn.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:06,233 [INFO] Sikuli: Attempt 3 click on Fornavn.png
+2026-04-10 16:53:06,239 [WARNING] Click failed: Fornavn.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:07,249 [ERROR] \u274c Failed to click: Fornavn.png
+2026-04-10 16:53:07,359 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Fornavn.png_20260410_165307.png
+2026-04-10 16:53:08,059 [INFO] Sikuli: Attempt 1 click on Etternavn.png
+2026-04-10 16:53:08,061 [WARNING] Click failed: Etternavn.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:09,077 [INFO] Sikuli: Attempt 2 click on Etternavn.png
+2026-04-10 16:53:09,079 [WARNING] Click failed: Etternavn.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:10,091 [INFO] Sikuli: Attempt 3 click on Etternavn.png
+2026-04-10 16:53:10,107 [WARNING] Click failed: Etternavn.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:11,117 [ERROR] \u274c Failed to click: Etternavn.png
+2026-04-10 16:53:11,227 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_Etternavn.png_20260410_165311.png
+2026-04-10 16:53:11,926 [INFO] Sikuli: Attempt 1 click on LandDropdown.png
+2026-04-10 16:53:11,928 [WARNING] Click failed: LandDropdown.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:12,941 [INFO] Sikuli: Attempt 2 click on LandDropdown.png
+2026-04-10 16:53:12,943 [WARNING] Click failed: LandDropdown.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:13,956 [INFO] Sikuli: Attempt 3 click on LandDropdown.png
+2026-04-10 16:53:13,962 [WARNING] Click failed: LandDropdown.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:14,975 [ERROR] \u274c Failed to click: LandDropdown.png
+2026-04-10 16:53:15,088 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandDropdown.png_20260410_165314.png
+2026-04-10 16:53:15,088 [INFO] Sikuli: Attempt 1 click on LandCountry.png
+2026-04-10 16:53:15,090 [WARNING] Click failed: LandCountry.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:16,102 [INFO] Sikuli: Attempt 2 click on LandCountry.png
+2026-04-10 16:53:16,102 [WARNING] Click failed: LandCountry.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:17,944 [INFO] Sikuli: Attempt 3 click on LandCountry.png
+2026-04-10 16:53:18,670 [WARNING] Click failed: LandCountry.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:19,677 [ERROR] \u274c Failed to click: LandCountry.png
+2026-04-10 16:53:19,785 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_LandCountry.png_20260410_165319.png
+2026-04-10 16:53:19,785 [INFO] Validating text: Yes
+2026-04-10 16:53:21,734 [ERROR] OCR Exception: 'java.lang.String' object has no attribute 'lower'
+2026-04-10 16:53:22,056 [ERROR] \U0001f4f8 Screenshot saved: screenshots\ocr_exception_20260410_165321.png
+2026-04-10 16:53:22,056 [INFO] Sikuli: Attempt 1 click on YesClick.png
+2026-04-10 16:53:22,061 [WARNING] Click failed: YesClick.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:23,074 [INFO] Sikuli: Attempt 2 click on YesClick.png
+2026-04-10 16:53:23,076 [WARNING] Click failed: YesClick.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:24,086 [INFO] Sikuli: Attempt 3 click on YesClick.png
+2026-04-10 16:53:24,086 [WARNING] Click failed: YesClick.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:25,088 [ERROR] \u274c Failed to click: YesClick.png
+2026-04-10 16:53:25,238 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_YesClick.png_20260410_165325.png
+2026-04-10 16:53:25,240 [INFO] Sikuli: Attempt 1 click on center_scroll_handle.png
+2026-04-10 16:53:25,244 [WARNING] Click failed: center_scroll_handle.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:26,244 [INFO] Sikuli: Attempt 2 click on center_scroll_handle.png
+2026-04-10 16:53:26,244 [WARNING] Click failed: center_scroll_handle.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:27,247 [INFO] Sikuli: Attempt 3 click on center_scroll_handle.png
+2026-04-10 16:53:27,247 [WARNING] Click failed: center_scroll_handle.png (No matching overloads found for java.lang.Object.wait(org.sikuli.script.Pattern,int), options are:
+	public final void java.lang.Object.wait() throws java.lang.InterruptedException
+	public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+	public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException
+)
+2026-04-10 16:53:28,252 [ERROR] \u274c Failed to click: center_scroll_handle.png
+2026-04-10 16:53:28,361 [ERROR] \U0001f4f8 Screenshot saved: screenshots\fail_center_scroll_handle.png_20260410_165328.png
